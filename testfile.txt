@@ -1,1 +1,12 @@
 POC success from Marvel server
+
+I am successful with my first git test
+Now I can work with the git hub easily 
+
+the commands I used:
+git add file_name
+git commit -m "my message"
+git push origin main
+
+next command I need to use is
+git pull origin main
